@@ -1,33 +1,43 @@
 # Hi, I'm Yan 👋
 
-Software engineer focused on backend, distributed systems and developer tooling.
-I like clean architecture, observability and shipping things that scale.
+Backend engineer in **fintech** — payments (Pix) and credit/lending at scale.
+I build NestJS microservices and BFFs with Clean Architecture, event-driven
+messaging and shared SDKs that keep dozens of services consistent.
 
-- 🔭 Currently working on microservices & internal platform tooling
-- 🌱 Exploring data engineering and AI-assisted developer workflows
-- 💬 Ask me about .NET, Node.js, system design and CI/CD
+- 🔭 Building payment & credit platforms — microservices, BFFs, published SDKs (`@mottu-ops/*`)
+- 🧱 Clean Architecture, event-driven (RabbitMQ / GCP Pub/Sub), strict layering
+- 🌱 Exploring data engineering (Dataform/BigQuery) and AI-assisted dev workflows
+- 💬 Ask me about NestJS, system design, BFF patterns and messaging
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/yan-almeida) · [Email](mailto:your-email@example.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Languages & Frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**Data & Messaging**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Google Cloud Pub/Sub](https://img.shields.io/badge/GCP%20Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**Infra & Tooling**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-008AAA?style=for-the-badge&logo=keycloak&logoColor=white)
 
 ---
 
