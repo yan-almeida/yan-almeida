@@ -9,7 +9,7 @@ messaging and shared SDKs that keep dozens of services consistent.
 - 🚚 Background in **delivery & logistics integrations** — see below
 - 🌱 Exploring data engineering (Dataform/BigQuery) and AI-assisted dev workflows
 - 💬 Ask me about NestJS, system design, BFF patterns and messaging
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yan-almeida) · [Email](mailto:your-email@example.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yan-a-9aa672108/) · [Email](mailto:yanalmeidagarcia@gmail.com)
 
 ---
 
