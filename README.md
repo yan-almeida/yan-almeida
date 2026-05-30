@@ -15,9 +15,17 @@ messaging and shared SDKs that keep dozens of services consistent.
 
 ## 🧭 Experience Highlights
 
+**Mottu**
+
 - **Fintech (current)** — payments (Pix) and credit/lending platforms: edge services, BFFs for admin & mobile, DocuSign contracts, feature flags.
 - **Delivery — third-party integrations** — built and maintained integrations with major Brazilian platforms (**iFood**, **Raia Drogasil**, and other large retailers/marketplaces), handling high-volume order and fulfillment flows.
+- **OpenDelivery / ABRASEL** — contributed to bringing Mottu into the [Open Delivery standard](https://aderentes.opendelivery.com.br/companies/66a42751ae83404ec90044d8) as a logistics-operator integration platform.
 - **Last-mile pilot with AliExpress** — led/piloted a cross-border last-mile delivery integration.
+
+**Teceo** (previous)
+
+- B2B "market network" platform for fashion & lifestyle, connecting brands, sales reps and multi-brand retailers.
+- Worked from internal integrations through to building the self-service structure that let brands integrate autonomously.
 
 ---
 
