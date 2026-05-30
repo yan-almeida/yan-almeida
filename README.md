@@ -4,11 +4,20 @@ Backend engineer in **fintech** — payments (Pix) and credit/lending at scale.
 I build NestJS microservices and BFFs with Clean Architecture, event-driven
 messaging and shared SDKs that keep dozens of services consistent.
 
-- 🔭 Building payment & credit platforms — microservices, BFFs, published SDKs (`@mottu-ops/*`)
+- 🔭 Currently in **fintech** — payment & credit platforms, microservices, BFFs, published SDKs (`@mottu-ops/*`)
 - 🧱 Clean Architecture, event-driven (RabbitMQ / GCP Pub/Sub), strict layering
+- 🚚 Background in **delivery & logistics integrations** — see below
 - 🌱 Exploring data engineering (Dataform/BigQuery) and AI-assisted dev workflows
 - 💬 Ask me about NestJS, system design, BFF patterns and messaging
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/yan-almeida) · [Email](mailto:your-email@example.com)
+
+---
+
+## 🧭 Experience Highlights
+
+- **Fintech (current)** — payments (Pix) and credit/lending platforms: edge services, BFFs for admin & mobile, DocuSign contracts, feature flags.
+- **Delivery — third-party integrations** — built and maintained integrations with major Brazilian platforms (**iFood**, **Raia Drogasil**, and other large retailers/marketplaces), handling high-volume order and fulfillment flows.
+- **Last-mile pilot with AliExpress** — led/piloted a cross-border last-mile delivery integration.
 
 ---
 
