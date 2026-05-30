@@ -17,7 +17,7 @@ messaging and shared SDKs that keep dozens of services consistent.
 
 **Mottu**
 
-- **Fintech (current)** — payments (Pix) and credit/lending platforms: edge services, BFFs for admin & mobile, DocuSign contracts, feature flags.
+- **Fintech / Customer LTV (current)** — growing customer lifetime value through new plan offers and cashback for good customers (current-plan extension + credit). Built on payments (Pix) and credit/lending platforms: edge services, BFFs for admin & mobile, DocuSign contracts, feature flags.
 - **Delivery — third-party integrations** — built and maintained integrations with major Brazilian platforms (**iFood**, **Raia Drogasil**, and other large retailers/marketplaces), handling high-volume order and fulfillment flows.
 - **OpenDelivery / ABRASEL** — contributed to bringing Mottu into the [Open Delivery standard](https://aderentes.opendelivery.com.br/companies/66a42751ae83404ec90044d8) as a logistics-operator integration platform.
 - **Last-mile pilot with AliExpress** — led/piloted a cross-border last-mile delivery integration.
